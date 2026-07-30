@@ -1,269 +1,216 @@
-<h1 align="center">Hi 👋, I'm Abisri M</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Java Backend Developer | Spring Boot Enthusiast | REST API Developer | CSE (IoT) Student
-</h3>
+# Hi 👋 I'm Abisri M
 
-<p align="center">
-Building secure and scalable backend applications with Java & Spring Boot.
-</p>
+### 💻 Java Backend Developer | Spring Boot Developer | Problem Solver
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;600%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;REST+API+Developer;Problem+Solver;Always+Learning+New+Technologies" />
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=mabisri4-18&label=Profile%20Views&color=blue&style=for-the-badge"/>
+🎓 B.E. Computer Science & Engineering (IoT)
 
-<img src="https://img.shields.io/github/followers/mabisri4-18?style=for-the-badge"/>
+💻 Passionate Backend Developer specializing in Java & Spring Boot
 
-<img src="https://img.shields.io/github/stars/mabisri4-18?affiliations=OWNER&style=for-the-badge"/>
+🔐 Experienced in Spring Security & JWT Authentication
 
-</p>
+🚀 Built scalable REST APIs using Spring Boot, Hibernate & MySQL
 
----
-
-# 🚀 About Me
-
-🎓 B.E Computer Science & Engineering (IoT)
-
-💻 Passionate Java Backend Developer
+📚 Solved **600+ DSA problems**
 
 🌱 Currently learning
 
-- Spring Security
 - Microservices
 - Docker
 - Kubernetes
 - AWS
 - Redis
 
-⚡ Strong in
-
-- Data Structures & Algorithms
-- Object Oriented Programming
-- REST API Development
-- Database Design
-- System Design Basics
-
-🎯 Goal
-
-To become a skilled Backend Engineer and build scalable enterprise applications.
-
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,cpp,mysql"/>
-
 </p>
 
-## Backend
+### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=spring"/>
-
 </p>
 
 - Spring Boot
 - Spring Security
-- Spring Data JPA
 - Hibernate
+- Spring Data JPA
 - JWT Authentication
 - REST APIs
 
----
-
-## Frontend
+### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
-
 </p>
 
----
-
-## Database
+### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
----
-
-## Tools
+### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea"/>
-
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 ## 🏟 Turf Booking Management System
 
-✔ Spring Boot
-
-✔ Spring Security
-
-✔ JWT Authentication
-
-✔ React
-
-✔ MySQL
-
-✔ REST APIs
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- React
+- MySQL
+- REST APIs
 
 ---
 
 ## 📚 Maatram KK360
 
-✔ Learning Management System
+Learning Management System
 
-✔ Judge0 Integration
-
-✔ Spring Boot
-
-✔ React
-
-✔ JWT
-
-✔ MySQL
+- Spring Boot
+- React
+- JWT
+- Judge0 Integration
+- Role-Based Authentication
 
 ---
 
 ## 🍔 Distributed Food Delivery Backend
 
-✔ Spring Boot
-
-✔ Authentication
-
-✔ Authorization
-
-✔ REST APIs
-
-✔ MySQL
+- Spring Boot
+- Spring Security
+- JWT
+- MySQL
+- REST APIs
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mabisri4-18&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mabisri4-18&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabisri4-18&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabisri4-18&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mabisri4-18&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mabisri4-18&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabisri4-18&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabisri4-18&theme=github-compact"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mabisri4-18&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mabisri4-18&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions
+## 💼 Coding Profiles
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mabisri4-18/mabisri4-18/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The snake animation requires a GitHub Action to generate it automatically.
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="YOUR_LEETCODE_URL">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+<a href="https://github.com/mabisri4-18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:mabisri4@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements
 
-🥇 Solved **600+ DSA Problems**
+🏆 Solved **600+ DSA Problems**
 
-🥈 Second Prize in Paper Presentation
+🥈 Second Prize – Paper Presentation
 
 📜 NPTEL Certified
 
 ☕ Infosys Springboard Java Certified
 
-🚀 Passionate about Backend Development
+---
+
+## 💡 What I'm Focusing On
+
+- Backend Development
+- Spring Boot
+- Microservices
+- Cloud Technologies (AWS)
+- System Design
+- Competitive Programming
 
 ---
 
-# 💬 Quote
+## 📫 Reach Me
 
-> **"Dream big. Start small. Stay consistent. Every commit takes you closer to your goal."**
+📧 **Email:** mabisri4@gmail.com
+
+💼 **LinkedIn:** YOUR_LINKEDIN_URL
+
+💻 **GitHub:** https://github.com/mabisri4-18
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ "Consistency beats talent when talent doesn't stay consistent."
 
-</p>
+Thanks for visiting my profile!
+
+</div>
