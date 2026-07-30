@@ -1,77 +1,120 @@
 <h1 align="center">Hi 👋, I'm Abisri M</h1>
 
 <h3 align="center">
-💻 Software Developer | Java Backend Developer | Spring Boot Enthusiast | CSE (IoT) Student
+🚀 Java Backend Developer | Spring Boot Enthusiast | REST API Developer | CSE (IoT) Student
 </h3>
 
 <p align="center">
-Passionate about building scalable backend applications and solving real-world problems.
+Building secure and scalable backend applications with Java & Spring Boot.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mabisri4-18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/mabisri4-18?label=Followers&style=social"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;REST+API+Developer;Problem+Solver;Always+Learning+New+Technologies" />
+
 </p>
 
 ---
 
-# 🌟 About Me
+<p align="center">
 
-🎓 B.E. Computer Science & Engineering (IoT)
+<img src="https://komarev.com/ghpvc/?username=mabisri4-18&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/mabisri4-18?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/mabisri4-18?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+🎓 B.E Computer Science & Engineering (IoT)
 
 💻 Passionate Java Backend Developer
 
-🚀 Spring Boot & REST API Developer
+🌱 Currently learning
 
-🔐 Interested in Spring Security & JWT Authentication
-
-📚 Strong in Data Structures & Algorithms
-
-🌱 Currently Learning
-
+- Spring Security
 - Microservices
 - Docker
+- Kubernetes
 - AWS
 - Redis
-- Kubernetes
+
+⚡ Strong in
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- REST API Development
+- Database Design
+- System Design Basics
+
+🎯 Goal
+
+To become a skilled Backend Engineer and build scalable enterprise applications.
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql"/>
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+</p>
 
-### Frontend
+## Backend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
+<p>
 
-### Database
+<img src="https://skillicons.dev/icons?i=spring"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+</p>
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JWT Authentication
+- REST APIs
 
 ---
 
-# 🚀 Featured Projects
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
 
 ## 🏟 Turf Booking Management System
 
@@ -81,9 +124,11 @@ Passionate about building scalable backend applications and solving real-world p
 
 ✔ JWT Authentication
 
+✔ React
+
 ✔ MySQL
 
-✔ React.js
+✔ REST APIs
 
 ---
 
@@ -93,9 +138,13 @@ Passionate about building scalable backend applications and solving real-world p
 
 ✔ Judge0 Integration
 
-✔ Role Based Authentication
+✔ Spring Boot
 
-✔ Spring Boot + React
+✔ React
+
+✔ JWT
+
+✔ MySQL
 
 ---
 
@@ -103,7 +152,9 @@ Passionate about building scalable backend applications and solving real-world p
 
 ✔ Spring Boot
 
-✔ JWT Authentication
+✔ Authentication
+
+✔ Authorization
 
 ✔ REST APIs
 
@@ -111,13 +162,13 @@ Passionate about building scalable backend applications and solving real-world p
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabisri4-18&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mabisri4-18&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabisri4-18&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabisri4-18&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -133,24 +184,86 @@ Passionate about building scalable backend applications and solving real-world p
 
 ---
 
-# 🏆 Achievements
+# 📊 Contribution Graph
 
-🏅 Solved 600+ DSA Problems
+<p align="center">
 
-🥈 Second Prize – Paper Presentation
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabisri4-18&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mabisri4-18&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mabisri4-18/mabisri4-18/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** The snake animation requires a GitHub Action to generate it automatically.
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_URL">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:mabisri4@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🥇 Solved **600+ DSA Problems**
+
+🥈 Second Prize in Paper Presentation
 
 📜 NPTEL Certified
 
 ☕ Infosys Springboard Java Certified
 
+🚀 Passionate about Backend Development
+
 ---
 
-# 📫 Connect with Me
+# 💬 Quote
 
-📧 Email : mabisri4@gmail.com
+> **"Dream big. Start small. Stay consistent. Every commit takes you closer to your goal."**
 
-💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
+---
 
-💻 LeetCode : https://leetcode.com/YOUR_USERNAME
+<p align="center">
 
-🌐 Portfolio : Coming Soon
+### ⭐ Thanks for visiting my profile! ⭐
+
+</p>
