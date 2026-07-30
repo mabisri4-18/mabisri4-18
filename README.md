@@ -125,17 +125,6 @@ Learning Management System
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabisri4-18&theme=github-compact"/>
 
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mabisri4-18&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
 ---
 
 ## 💼 Coding Profiles
