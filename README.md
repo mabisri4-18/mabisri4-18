@@ -138,6 +138,26 @@ Learning Management System
 
 ---
 
+# 📈 GitHub Statistics
+
+<p align="center">
+
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
+
+</p>
+
+---
+
 ## 💼 Coding Profiles
 
 <p align="center">
