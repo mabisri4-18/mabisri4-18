@@ -131,32 +131,13 @@ Learning Management System
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SANJAYKUMAR-05/SANJAYKUMAR-05/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/mabisri4-18/mabisri4-18/output/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
 </p>
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
-
-</p>
-
----
 
 ## 💼 Coding Profiles
 
